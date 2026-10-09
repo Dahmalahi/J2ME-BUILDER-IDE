@@ -1,5 +1,20 @@
 # J2ME Builder IDE
 
+App icon 
+
+<img width="512" height="512" alt="1791543948-picsay" src="https://github.com/user-attachments/assets/33a665b1-516a-4206-b89c-0330708cba57" />
+
+
+Screenshots
+
+<img width="480" height="960" alt="Screenshot_20261005-134122" src="https://github.com/user-attachments/assets/4617e2ed-c022-461f-949b-c8b22cccedd7" />
+<img width="480" height="960" alt="Screenshot_20261006-080257" src="https://github.com/user-attachments/assets/8d45b017-1145-47b1-8048-785b2b4e1d07" />
+<img width="480" height="960" alt="Screenshot_20261006-080401" src="https://github.com/user-attachments/assets/b1a67a25-a2ea-4362-8396-0a996b603cdd" />
+<img width="480" height="960" alt="Screenshot_20261006-080342" src="https://github.com/user-attachments/assets/0a193960-3354-4c07-b7f5-15f90039fc96" />
+<img width="480" height="960" alt="Screenshot_20261004-202039" src="https://github.com/user-attachments/assets/50afac31-bbe6-40b4-99f7-369ab301a454" />
+
+
+
 **A complete J2ME (MIDP 2.0 / CLDC 1.1) development environment that runs on your Android phone.**
 Write MIDlets, compile them, preverify them, package a `.jar` + `.jad`, and open the result in an emulator — without a PC.
 
@@ -159,6 +174,6 @@ app/src/main/java/com/dashers/j2mebuilderide/
 | log4j-api 2.19.0 | needed by proguard-core | Apache License 2.0 |
 | CLDC / MIDP / JSR API jars in `assets/j2me/jars/` | preverify classpath | Sun / Oracle / vendor API stubs — check their redistribution terms before publishing |
 
-**App licence:** not set yet — add your licence here before a public release.
+**App licence:** MIT
 
-© DASH ANIMATION V2
+© DASH ANIMATION V2 
