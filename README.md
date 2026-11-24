@@ -13,6 +13,16 @@ Screenshots
 <img width="480" height="960" alt="Screenshot_20261006-080342" src="https://github.com/user-attachments/assets/0a193960-3354-4c07-b7f5-15f90039fc96" />
 <img width="480" height="960" alt="Screenshot_20261004-202039" src="https://github.com/user-attachments/assets/50afac31-bbe6-40b4-99f7-369ab301a454" />
 
+for v1.9.22 looks 
+<img width="720" height="1612" alt="1000298034" src="https://github.com/user-attachments/assets/c0ab5a6a-0b33-4525-b94b-7f8f8eebbd06" />
+<img width="720" height="1612" alt="1000298033" src="https://github.com/user-attachments/assets/2b06c082-40d0-4a48-b614-f8376e4929c4" />
+<img width="720" height="1612" alt="1000298032" src="https://github.com/user-attachments/assets/108a7bf4-ba78-4d5d-9125-eccb636dae78" />
+<img width="720" height="1612" alt="1000298035" src="https://github.com/user-attachments/assets/d0a9d210-40af-4523-824c-33e92476af81" />
+<img width="720" height="1612" alt="1000298036" src="https://github.com/user-attachments/assets/0f1f0407-9e54-4ab9-9c16-261eaaa0fa5f" />
+<img width="720" height="1612" alt="1000298037" src="https://github.com/user-attachments/assets/d7520e33-e895-4d10-a69a-4da39dd6f324" />
+
+
+
 
 
 **A complete J2ME (MIDP 2.0 / CLDC 1.1) development environment that runs on your Android phone.**
